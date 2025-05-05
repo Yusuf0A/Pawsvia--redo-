@@ -29,7 +29,6 @@ Traditional pet adoption websites often lack emotional context. Many people adop
 | Date Range     | Deliverables/To-Do List                                                    |
 |----------------|------------------------------------------------------------------|
 | Apr 22         | Submit GitHub repository and Figma mockups                      |
-| Apr 24–27      | Implement mood + location selection and dynamic search logic     |
 | Apr 27–29      | Connect Petfinder API and display real pet data                 |
 | Apr 30–May 1   | Design and build pet detail view + favorites system              |
 | May 2          | Present final version of Pawsvia                                |
