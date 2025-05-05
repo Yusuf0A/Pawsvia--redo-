@@ -17,7 +17,7 @@ Traditional pet adoption websites often lack emotional context. Many people adop
 | Tool/Technology         | Purpose / Feature Use                                       |
 |-------------------------|-------------------------------------------------------------|
 | HTML                    | Structure of the application                                |
-| CSS (Flexbox/Grid)      | Styling layout, responsive design                           |
+| CSS (Tailwind)     | Styling layout, responsive design                           |
 | JavaScript              | Interactivity, DOM manipulation, mood logic                 |
 | Petfinder API           | Fetch adoptable pet data based on filters                   |
 | Geoapify | Filter by Zipcode        |
