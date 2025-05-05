@@ -20,7 +20,7 @@
 {@render children()}
 
 
-<div class="absolute bottom-0 italic text-gray-500 w-full text-center p-6">
+<div class="pt-36 italic text-gray-500 w-full text-center">
 	<p>This website is made with the <a href='https://svelte.dev' class='font-bold underline text-blue-500'>Svelte</a> framework and the <a href='https://kit.svelte.dev' class='font-bold underline text-blue-500'>SvelteKit</a> router!</p>
 	<p>Made by: <a href='https://github.com/Yusuf0A' class='font-bold underline text-blue-500'>Yusuf Anteur</a></p>
 </div>

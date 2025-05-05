@@ -37,8 +37,8 @@ class="flex gap-8 flex-col items-center w-3/5 m-auto h-96 overflow-y-hidden bord
 {#if animals.length ==0 }
     <div class="text-2xl font-bold text-gray-700">No animals found</div>
 {:else}
-    {#each animals as animal}
-        <div class="flex">
+    {#each animals as animal, id}
+        <div class="flex" id={'card-'+id}>
             <img src={animal.primary_photo_cropped?.small} alt={animal.name} class="w-48 h-48 object-cover rounded-full"/>
             <div class="flex flex-col items-center p-4">
                 <h2 class="text-2xl font-bold">{animal.name}</h2>
